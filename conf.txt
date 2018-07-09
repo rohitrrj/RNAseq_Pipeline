@@ -1,0 +1,12 @@
+## Set Up the path Variables
+# Data Directory path
+myDATADIR="/TestDir/raw/TestRun"
+
+# Genome Directory path
+myGenomeDIR="/TestDir/myGenomeDIR"
+
+# GTF file path
+myGenomeGTF="/TestDir/ATACseq_Pipeline/ATAC_scripts"
+
+# Number of CPUs to be used for analysis
+N_CPUS=16
