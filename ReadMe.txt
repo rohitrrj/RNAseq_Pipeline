@@ -1,0 +1,1 @@
+This RNA-seq pipeline works in two steps for preprocessing the sequencing reads.1. The shell script aligns the reads to genome using STAR followed by processing read counts for individual genes from the GTF file.2. The R script uses the gene counts file to calculate RPKM and CPM values.
