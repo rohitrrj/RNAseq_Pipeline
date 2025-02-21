@@ -183,8 +183,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 If you use this pipeline in your research, please cite:
 ```
-Author et al. (Year). RNA-seq Pipeline: A comprehensive processing pipeline for RNA sequencing data.
-Repository: https://github.com/yourusername/RNAseq_Pipeline
+
 ```
 
 ## Contributing
