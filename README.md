@@ -183,7 +183,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 If you use this pipeline in your research, please cite:
 ```
+Jadhav RR, Im SJ, Dixit PY, Hu B, Hashimoto M, Li P, Lin JX, Chen S, Huang YH, Leonard WJ, Lin JX, Greenleaf WJ, Ahmed R, Goronzy JJ. PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program. Nature. 2022 Oct;610(7933):737-743. doi: 10.1038/s41586-022-05257-0. PMID: 36215562; PMCID: PMC9927214.
+```
 
+You can also cite this repository:
+```
+Jadhav R. (2025). RNAseq_Pipeline: A comprehensive pipeline for RNA sequencing analysis.
+GitHub repository: https://github.com/rohitrrj/RNAseq_Pipeline
 ```
 
 ## Contributing
