@@ -186,15 +186,15 @@ This pipeline has been used in the following publications:
 1. "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program"
    - *Nature*. 2022 Oct;610(7933):737-743
    - DOI: [10.1038/s41586-022-05257-0](https://doi.org/10.1038/s41586-022-05257-0)
-   - PMID: [36215562](https://pubmed.ncbi.nlm.nih.gov/36215562)
-   - PMCID: [PMC9927214](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9927214/)
+   - PMID: [36171288](https://pubmed.ncbi.nlm.nih.gov/36171288)
+   - PMCID: [PMC9793890](https://pmc.ncbi.nlm.nih.gov/articles/PMC9793890)
    - Used for transcriptome analysis of exhausted T cells
 
-2. "Loss of T cell progenitor reprogramming potential in aging bone marrow niches"
-   - *JCI Insight*. 2020 Apr 9;5(7):e134356
-   - DOI: [10.1172/jci.insight.134356](https://doi.org/10.1172/jci.insight.134356)
-   - PMID: [32191644](https://pubmed.ncbi.nlm.nih.gov/32191644/)
-   - PMCID: [PMC7101137](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101137/)
+2. "Aging-associated HELIOS deficiency in naive CD4+ T cells alters chromatin remodeling and promotes effector cell responses"
+   - *Nat Immunol.*. 2023 Jan;24(1):96-109
+   - DOI: [10.1038/s41590-022-01369-x](https://doi.org/10.1038/s41590-022-01369-x)
+   - PMID: [36510022](https://pubmed.ncbi.nlm.nih.gov/36510022/)
+   - PMCID: [PMC10118794](https://pmc.ncbi.nlm.nih.gov/articles/PMC10118794/)
    - Used for analyzing bone marrow T cell progenitor transcriptome
 
 Code availability:
