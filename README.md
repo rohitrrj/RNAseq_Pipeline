@@ -38,7 +38,7 @@ A comprehensive pipeline for processing RNA sequencing data using STAR aligner a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/RNAseq_Pipeline.git
+git clone https://github.com/rohitrrj/RNAseq_Pipeline.git
 cd RNAseq_Pipeline
 ```
 
@@ -180,17 +180,25 @@ Gene quantification settings:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-If you use this pipeline in your research, please cite:
-```
-Jadhav RR, Im SJ, Dixit PY, Hu B, Hashimoto M, Li P, Lin JX, Chen S, Huang YH, Leonard WJ, Lin JX, Greenleaf WJ, Ahmed R, Goronzy JJ. PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program. Nature. 2022 Oct;610(7933):737-743. doi: 10.1038/s41586-022-05257-0. PMID: 36215562; PMCID: PMC9927214.
-```
+## Applications
+This pipeline has been used in the following publications:
 
-You can also cite this repository:
-```
-Jadhav R. (2025). RNAseq_Pipeline: A comprehensive pipeline for RNA sequencing analysis.
-GitHub repository: https://github.com/rohitrrj/RNAseq_Pipeline
-```
+1. "PD-1 combination therapy with IL-2 modifies CD8+ T cell exhaustion program"
+   - *Nature*. 2022 Oct;610(7933):737-743
+   - DOI: [10.1038/s41586-022-05257-0](https://doi.org/10.1038/s41586-022-05257-0)
+   - PMID: [36215562](https://pubmed.ncbi.nlm.nih.gov/36215562)
+   - PMCID: [PMC9927214](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9927214/)
+   - Used for transcriptome analysis of exhausted T cells
+
+2. "Loss of T cell progenitor reprogramming potential in aging bone marrow niches"
+   - *JCI Insight*. 2020 Apr 9;5(7):e134356
+   - DOI: [10.1172/jci.insight.134356](https://doi.org/10.1172/jci.insight.134356)
+   - PMID: [32191644](https://pubmed.ncbi.nlm.nih.gov/32191644/)
+   - PMCID: [PMC7101137](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101137/)
+   - Used for analyzing bone marrow T cell progenitor transcriptome
+
+Code availability:
+⭐ [rohitrrj/RNAseq_Pipeline](https://github.com/rohitrrj/RNAseq_Pipeline) - High-throughput RNA sequencing analysis pipeline
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
